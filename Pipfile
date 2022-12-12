@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+requests = "*"
+bs4 = "*"
+lxml = "*"
+sqlalchemy = "*"
+psycopg2 = "*"
+pyyaml = "*"
+aiohttp = "*"
 
 [dev-packages]
 
